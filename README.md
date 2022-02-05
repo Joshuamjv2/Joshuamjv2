@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joshua Muwanguzi
-- 👀 I’m interested in backend web development but would love to be fullstack at some point
-- 🌱 I’m currently learning django, javascript, css, sql, data structures and algorithms
-- 💞️ javascript, python, django, css, HTML, Vue Js
+- 👀 I’m interested in backend web development, working on fullstack
+- 🌱 I’m currently learning React JS
+- 💞️ javascript, python, django, css, HTML, React JS
 - 📫 joshuamjv22@gmail.com
-
