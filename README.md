@@ -8,8 +8,8 @@
 - ⚡Fast learner
 ### Languages, Frameworks & Tools
 - 🌐 Python | Javascript | React Js & Next Js | FastAPI | Django | HTML | CSS | Tailwind | Graphql
-- 🔧 Git & Github | Linux | Docker | Markdown
+- 🔧 Git & Github | VSCode | Docker | Markdown
 - 💾 MongoDB | DynamoDB | MySQL
-- 🌥️ AWS
+- 🌥️ AWS (Lambda, Dynamodb, Appsync, ECR, Cloudwatch, S3, SNS)
 ### Reach Me
 - 📧 joshuamjv22@gmail.com
