@@ -1,5 +1,15 @@
-- 👋 Hi, I’m Joshua Muwanguzi
-- 👀 I’m interested in backend web development, working on fullstack
-- 🌱 I’m currently learning React JS
-- 💞️ javascript, python, django, css, HTML, React JS
-- 📫 joshuamjv22@gmail.com
+## 👋 Hi, I’m Joshua Muwanguzi
+### About Me
+- 📫 Living in Uganda
+- 💞️ Coding, Learning, Photography, Baskeball
+### Skills
+- 🖥 Full Stack Developer
+- 🤝 Team player
+- ⚡Fast learner
+### Languages, Frameworks & Tools
+- 🌐 Python | Javascript | React Js & Next Js | FastAPI | Django | HTML | CSS | Tailwind | Graphql
+- 🔧 Git & Github | Linux | Docker | Markdown
+- 💾 MongoDB | DynamoDB | MySQL
+- 🌥️ AWS
+### Reach Me
+- 📧 joshuamjv22@gmail.com
