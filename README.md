@@ -1,15 +1,11 @@
 ## 👋 Hi, I’m Joshua Muwanguzi
-### About Me
-- 📫 Living in Uganda
-- 💞️ Coding, Learning, Photography, Baskeball
-### Skills
-- 🖥 Full Stack Developer
-- 🤝 Team player
-- ⚡Fast learner
+- I am a cloud and software developer
+- I am interested in building and learning new things in the process
+- I am a problem solver
 ### Languages, Frameworks & Tools
-- 🌐 Python | Javascript | React Js & Next Js | FastAPI | Django | HTML | CSS | Tailwind | Graphql
-- 🔧 Git & Github | VSCode | Docker | Markdown
-- 💾 MongoDB | DynamoDB | MySQL
-- 🌥️ AWS (Lambda, Dynamodb, Appsync, ECR, Cloudwatch, S3, SNS)
+- 🌐 Python | Javascript | Typescript | Linux | React Js | Next Js | Vite | Vue Js | FastAPI | Django | Tailwind | Graphql
+- 🔧 Git & Github | VSCode | Docker | Kubernetes
+- 💾 MongoDB | DynamoDB | MySQL | Postgres
+- 🌥️ AWS | GCP
 ### Reach Me
 - 📧 joshuamjv22@gmail.com
