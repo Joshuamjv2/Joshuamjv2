@@ -41,6 +41,3 @@ My work blends creativity, scalability, and problem-solving to deliver solutions
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joshuamjv22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muwanguzi-joshua-254a33206/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Muwangu12386789)
-
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
